@@ -23,4 +23,4 @@
 
 ## Requirements
 
-- BepInEx LTS (5.4.22)
+- BepInEx LTS (5.4.21)
