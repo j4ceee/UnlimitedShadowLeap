@@ -20,7 +20,21 @@
 
 - navigate to your BepInEx config directory ([more info](https://docs.bepinex.dev/articles/user_guide/configuration.html))
 - open `jacee.dev.UnlimitedShadowLeap.cfg` with your text editor
+- edit the desired values (acceptable values are listed below the option description)
+
+## Installation
+
+- install BepInEx (explained below)
+- download this mod & extract the zip file
+- inside the extracted folder you'll find a 'BepInEx' folder
+- move the `BepInEx` folder of the mod to your game directory (usually `C:\Program Files (x86)\Steam\steamapps\common\Aragami`)
+- in your game directory open `BepInEx` -> `plugins` and inside you should have an `UnlimitedShadowLeap` folder
 
 ## Requirements
 
-- BepInEx LTS (5.4.21)
+- BepInEx LTS 5.4.21 ([Thunderstore﻿](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) / [GitHub](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21))
+  
+  > - Extract the archive into a folder. Do not extract into the game folder.
+  > - Move the contents of `BepInExPack` folder into the game folder (where the game executable is located) (usually `C:\Program Files (x86)\Steam\steamapps\common\Aragami` for Aragami).
+  > - You should now have 2 folders in your Aragami directory: `Aragami_Data` & `BepInEx`
+  > - Run the game. If everything runs correctly, you will see BepInEx console pop up on your desktop.
